@@ -5,7 +5,7 @@
 ## Hello World !
 
 This is my first post and the beginning of my journey to learning
-[Kotlin/Native [1] [2]][kotlin/native] and the porting/implementation of various modules used in
+[Kotlin[1]][kotlinlang.org]/[Native [2]][kotlinlang.org/native] and the porting/implementation of various modules used in
 the [Dat Project [3]][datproject.org]. [I come from the world of
 JavaScript and C][github.com/jwerle] and will try to dissect the
 internals of things like [Hypercore][github.com/mafintosh/hypercore] and
