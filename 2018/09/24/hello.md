@@ -111,9 +111,9 @@ Below are a few starting places I've been thinking about
 
 ## References
 
-[1] - [Kotlin][kotlinlang.org] - Statically typed programming language for modern multiplatform applications.
-[2] - [Kotlin/Native][kotlinlang.org/native] - A technology for compiling Kotlin to native binaries that run without any VM.
-[3] - [Dat Project][datproject.org] - A Distributed Data Community
+1 - [Kotlin][kotlinlang.org] - Statically typed programming language for modern multiplatform applications.
+2 - [Kotlin/Native][kotlinlang.org/native] - A technology for compiling Kotlin to native binaries that run without any VM.
+3 - [Dat Project][datproject.org] - A Distributed Data Community
 
 [kotlinlang.org]: https://kotlinlang.org
 [kotlinlang.org/native]: https://kotlinlang.org/docs/reference/native-overview.html
